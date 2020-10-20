@@ -4,6 +4,6 @@ public class Galaxy implements Phone{
     }
     @Override
     public void produce() {
-
+        System.out.println("A Galaxy a been produced!");
     }
 }
